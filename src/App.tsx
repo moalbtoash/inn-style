@@ -237,7 +237,7 @@ function App() {
             <div className="hero-image-caption"><span>01</span><span>Beauty, die bleibt.</span></div>
           </div>
           <div className="hero-copy">
-            <p className="eyebrow hero-eyebrow"><span className="eyebrow-line" /> Wasserburg am Inn</p>
+            <p className="eyebrow hero-eyebrow"><span className="eyebrow-line" /> DEIN STUDIO IN WASSERBURG</p>
             <h1>Schöne Nägel.<br /><em>Perfekte Wimpern.</em><br />Dein Style.</h1>
             <p className="hero-lede">Professionelle Nagel- &amp; Wimpernbehandlungen in Wasserburg am Inn.</p>
             <div className="hero-actions">
